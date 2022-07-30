@@ -52,3 +52,4 @@ services:
 volumes:
   document_data:
   document_log:
+  app_data:
